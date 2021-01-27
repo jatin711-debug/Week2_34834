@@ -11,5 +11,7 @@ package student;
  * @author Megha Patel
  */
 public class PartTimeStudent {
+  
+  int numOfCourses;
 
 }
